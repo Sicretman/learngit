@@ -11,3 +11,5 @@ Creating a new branch is quick AND simple.
 >>>>>>> featurel
 
 I am working on my homework.
+
+I am still working on my homework.
